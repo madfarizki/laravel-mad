@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/madfariz/laravel/
-    - /bin/cp -r * $DEPLOYPAT
+    - /bin/cp -r * $DEPLOYPATH
